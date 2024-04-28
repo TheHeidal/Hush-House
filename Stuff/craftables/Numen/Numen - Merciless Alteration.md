@@ -1,0 +1,1 @@
+> The fundamental flaw; the irresistible shortcut; the hate that heats; the change that mars; the scar that opens. These are the foulest Histories.  *\[Any Librarian can use this to establish a History and complete the game - but [[the Artist]] and [[the Archaeologist]] can win a particular victory.]*

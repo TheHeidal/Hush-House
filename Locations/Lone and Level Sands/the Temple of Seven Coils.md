@@ -1,0 +1,2 @@
+![[e82zmj67.bmp]] 
+>A crumbling temple in a shadowed defile. It was built, it seems, in [[the Third History]], the one where much later the Worms overran Europe, but it exists in all the Histories now.

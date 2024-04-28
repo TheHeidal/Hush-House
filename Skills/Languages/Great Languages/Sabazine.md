@@ -1,0 +1,1 @@
+There is a History where [[Alexander the Great|Alexander]] defeated first the Great Knot of [[Sabazos]], and then [[Darius|the King of Kings]]. There is another History where, instead, he learnt from them. How many more? If we curl our hands into the correct shapes, we may yet understand.

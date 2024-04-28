@@ -1,0 +1,1 @@
+A small town on the shore of [[Lake Fucino]]. Home to [[St Agnes of the Serpent]]

@@ -1,0 +1,1 @@
+The smell of catwink puts off vermin; but it is very difficult to read in sunlight. An [[Ink of Containment]].

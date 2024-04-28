@@ -1,0 +1,1 @@
+One of the [[gods-from-stone]] who was killed by [[the Red Grail]] in the [[the lithomachy]].

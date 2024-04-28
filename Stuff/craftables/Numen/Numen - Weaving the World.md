@@ -1,0 +1,1 @@
+The Histories, they say, are braided like hair - or tangled like roots. What is the shape of that knot? Funny you should ask… \[Any Librarian can use this to establish a History and complete the game - but [[the Symurgist]] and [[the Cartographer]] can win a particular victory.]

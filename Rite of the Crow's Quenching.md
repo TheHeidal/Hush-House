@@ -1,0 +1,1 @@
+> This rite calls of [[the Beach-Crow|the Beach-Crow]] at sunrise or moonrise. The Crow accepts the sacrifice, and returns the gifts of the earth.

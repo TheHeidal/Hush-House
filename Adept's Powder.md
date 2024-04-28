@@ -1,0 +1,1 @@
+> A pinch of this goes up like lightning-struck thermite

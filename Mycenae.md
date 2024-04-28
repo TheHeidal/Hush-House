@@ -1,0 +1,1 @@
+Mycenaean Greece was the last phase of the Bronze Age in Ancient [[Greece]], spanning the period from approximately 1750 to 1050 BC. It represents the first advanced and distinctively Greek civilization in mainland Greece with its palatial states, urban organization, works of art, and writing system. [Wikipedia](https://en.wikipedia.org/wiki/Mycenaean_Greece)

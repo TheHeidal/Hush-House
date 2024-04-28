@@ -1,0 +1,1 @@
+A pale and watchful fluid that can be gathered, sometimes, when [[the Door-in-the-Eye]] is opened.

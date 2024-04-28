@@ -1,0 +1,1 @@
+> 'A general says: when I make the right choice, I win. An [[Illumination|Illuminate]] says: when I win, I determine which choice was the right one.' - [[Natalia Brulleau]]

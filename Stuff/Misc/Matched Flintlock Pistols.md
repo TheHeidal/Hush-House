@@ -1,0 +1,3 @@
+A pair of pistols - the style and maker's mark suggest late seventeenth century.  The initials 'MD' are marked in silver, above the wolf-sejant of the Barons Brancrug.
+
+There is a story that [[Musgrave Dewulf]] died in a secret duel with a '[[Welsh visitor]]'. There is nothing to suggest that this is true, or that these pistols were ever used in a duel… but the date might match, and one might speculate.

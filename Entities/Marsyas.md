@@ -1,0 +1,1 @@
+A wood-nymph who lost a music contest to Apollo and was skinned for her hubris. Possibly he became [[the Thunderskin]]

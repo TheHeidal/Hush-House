@@ -1,0 +1,1 @@
+Before [[Intercalate|the great division]], this was the Sixth Hour, when the priests led hymns to [[the Sun-in-Splendour]]. Now Noon, as they say, is not as it was. Perhaps [[the New King]] will change that.

@@ -1,0 +1,1 @@
+Ecdysis is the process of an insect shedding it's skin.

@@ -1,0 +1,1 @@
+A [[Long]] imprisoned in [[the Gullscry Tower#Stair Tenebrous|the Stair Tenebrous]].

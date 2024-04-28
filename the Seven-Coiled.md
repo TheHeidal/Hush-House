@@ -1,0 +1,1 @@
+A [[gods-from-stone|god-from-stone]] killed by [[The Colonel]] and [[the Mother of Ants]].

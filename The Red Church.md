@@ -1,0 +1,1 @@
+A location in [[the Mansus]], frequented by [[the Red Grail]].

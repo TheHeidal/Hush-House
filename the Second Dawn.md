@@ -1,0 +1,2 @@
+Two hours have held the position of the Sun: [[the Egg Unhatching]], referred to as a 'low red sun', and [[the Sun-in-Splendour]]. Both are gone, and the position stands empty.
+One question which could resolve [[History and Eternity]] is how a new Sun could come about.

@@ -1,0 +1,1 @@
+In the exile legacy, cats are linked to [[the Velvet]].

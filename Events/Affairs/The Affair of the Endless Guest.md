@@ -1,0 +1,1 @@
+An 'inhabitation of [[Worms]]' is never to be taken lightly. In this case, Worms have chosen to inhabit one [[Spencer Hobson]], on assignment by [[Suppression Bureau|the Bureau]] in [[Kraków]]. Hobson has remained unusually articulate for an inhabitee; and apparently, he considers the Worms his 'guest'.

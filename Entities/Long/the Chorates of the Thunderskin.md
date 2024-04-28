@@ -1,0 +1,1 @@
+Name calls to mind [[Chor]] and [[the Thunderskin]]. They're talked about like followers of the Thunderskin in the description of the [[Hall of Voices]].

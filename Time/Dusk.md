@@ -1,0 +1,1 @@
+Night from day; silver from gold. The vesper-hour when the priests would honour the rising of the evening-star [[the Meniscate|Meniscate]].

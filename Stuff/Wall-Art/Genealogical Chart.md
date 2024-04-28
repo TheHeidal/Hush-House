@@ -1,0 +1,3 @@
+> Six years ago, [[King George]]'s heir [[Edward]] killed him in a quarrel over Edward's womanising. The kingdom was saved from constitutional collapse by  [[Henry Huddleston Abney-Hastings]], 13th Count of Loudoun - who claimed descent through the Plantagenet line. Heaven lift the New King!
+
+> Collers was keenly interested in the history of the houses Tudor, Plantagenet, Hanover, Windsor, et cetera, all the way back to the days of [[the Sovereigns of the Leashed Flame]]. He has also doodled the Suppression Bureau seal by the name of King Henry's mother Edith. Of course: [[Edith Abney-Hastings|Lady Edith]] serves as [[Nocturnal Secretary]]... the minister with final responsibility for the entire Bureau.

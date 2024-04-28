@@ -1,0 +1,1 @@
+Snakes are frequently associated with [[the Seven-Coils]] and [[the Mother of Ants]]. They tend to be aligned with [[Knock]] and [[Scale]].

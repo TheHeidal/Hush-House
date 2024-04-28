@@ -1,0 +1,2 @@
+> A long hunting knife, or a short close-quarters sword. A plaque reads '[[Hendrik Dewulf]], 1525'
+> If the blade is real and the date correct, Hendrik must have borne this weapon during his time on the Continent, long before he ever became first Baron Brancrug… perhaps even in [[Guelders Wars|the 1527 Sack of Rome]], which apparently provoked his spiritual crisis and brought him, eventually, to Brancrug.

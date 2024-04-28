@@ -1,0 +1,1 @@
+6 Knock, 6 Forge, 6 Edge

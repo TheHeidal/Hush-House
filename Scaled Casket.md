@@ -1,0 +1,1 @@
+> A treasure left behind by an explorer on the eve of his final voyage.

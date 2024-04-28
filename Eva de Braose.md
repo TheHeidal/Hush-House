@@ -1,0 +1,1 @@
+The widow of a marcher lord, [[Black William]], who patronized [[St Brandan's Abbey]].

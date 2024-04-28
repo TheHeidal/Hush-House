@@ -1,0 +1,1 @@
+> 'There's a nasty sort of power stirring up in the mountains. Sealed away under the earth for years. But there was an earthquake, big hole opened up. Bureau tells me there's something weapon-y in there, and I'll be honest, I'd rather you had it than any of the local troublemakers.'

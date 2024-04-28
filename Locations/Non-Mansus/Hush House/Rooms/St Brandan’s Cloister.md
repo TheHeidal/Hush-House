@@ -1,0 +1,2 @@
+![[Pasted image 20240114153424.png]]
+The sisters and brothers of [[the Abbey|the Abbey]] built these gardens in the thirteenth century - at the height of the period we now call [[Solar Period|Solar Gothic]]. Walk here a while and breathe the peace they left.

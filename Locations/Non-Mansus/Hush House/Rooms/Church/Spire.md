@@ -1,0 +1,4 @@
+> Here [[Hendrik Dewulf]] met in secret with King [[Henry VIII|Henry]] - once the Bronze King, now 'Old Coppernose', for the Great Debasement had ended the supremacy of [[the Sovereigns of the Leashed Flame]], and Henry's heirs were no more than human. There is a story that Hendrik's son [[Thomas Dewulf|Thomas]] listened from the rafters - that three times he heard Henry ask his father to break a certain promise in the matter of [[Caer Ys]] beyond the wave, and the third time, the father did not refuse the king. This, says the story, is why Thomas never liked to make a promise thereafter, for fear of breaking it.
+
+> Wyrd-Cursed Spire
+> Seven years ago, someone pronounced a curse here, in the name of the Sun and its many selves. This place was not the curse's target, and nor was I, but its poison fills the air around me. I should not enter here until it's cleansed.

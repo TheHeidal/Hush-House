@@ -1,0 +1,1 @@
+The namesake of [[Labhitic Tincture]]. A group of assassins sworn to [[The Colonel]]?

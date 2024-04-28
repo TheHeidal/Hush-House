@@ -1,0 +1,2 @@
+> A delicate-featured young (?) woman. An inscription reads [[Abra Southey|ABRA SOUTHEY]].
+> The bust bears a slight but definite resemblance to the many depictions of the notorious [[Eva Dewulf]]. But surely Eva bore only a son, and her grand-daughters died young.

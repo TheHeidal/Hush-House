@@ -1,0 +1,6 @@
+[[The 'Lyterion']], a faddish health camp in [[the Black Forest]], has attracted attention after many of its clients seem to have developed sudden, sometimes upsetting, artistic abilities.
+
+| Person                          | Intro | Failure | Solution: Nectar                                                                                                                                                                                                                                                                                               | Solution: Heart | Acted |
+| ------------------------------- | ----- | ------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------- | ----- |
+| [[Fr. Stanislav John Schaller]] |       |         | I'm going to [[the Black Forest]]. I think this is something I'll need to follow down into the roots. I think there is an opportunity here, for something old to be reborn in the right way or the wrong one. I might be wrong. It's been known. But thank you, Librarian, please take my blessing; and this.' |                 |       |
+

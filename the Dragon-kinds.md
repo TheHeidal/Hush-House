@@ -1,0 +1,1 @@
+A kind of [[the Carapace Cross]] that feasted on the corpse of [[the Sun-in-Splendour]] and became [[Worms]].

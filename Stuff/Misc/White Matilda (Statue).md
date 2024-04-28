@@ -1,0 +1,3 @@
+> In 1093, twin infant girls were admitted to the care of the sisters here. Both were named Matilda. In 1127, [[Abbess Matilda|the elder of the two]] became Abbess.
+> 
+> According to gossip and circumstantial evidence, the Matildas were illegitimate daughters of [[Gunnhild]], daughter of [[King Harold]], and a brother of [[Earl Brian|the Earl of Cornwall]] - though which brother is a particularly murky question.

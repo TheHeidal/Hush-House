@@ -1,0 +1,1 @@
+According to [[The Elations of Limentinus]], if Janus was an hour Limentinus would be counted among his Names.

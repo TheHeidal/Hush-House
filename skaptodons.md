@@ -1,0 +1,1 @@
+A thing that can only eat stuff from the earth. Human shaped.

@@ -1,0 +1,2 @@
+> Here [[Valentine Dewulf|Valentine]] has painted gulls migrating across a darkening sea.
+> Each winter the black-backed gulls would leave Brancrug for warmer climes. Valentine would command a candle-lit dinner on the beach in their honour, with dancing and drumming, though he would never attend, only watch approvingly from the Gullscry Tower.

@@ -1,0 +1,1 @@
+> The ink in which [[the First History]] was recorded by [[the Unwise Mortal]]. Uzult is the bright yellow-gold of [[Lantern]]. Light lingers on it for a little while even in the dark. Gold is not needed to mix Uzult, but [[amber]] is. Unobtrusive shrines to Uzult could sometimes be found in the churches of the Unconquered Sun. 

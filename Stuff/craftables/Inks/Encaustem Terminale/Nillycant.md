@@ -1,0 +1,1 @@
+> The <i>encaustum terminale</i> of [[the Third History]]. It's the bleak white-blue of Winter. It has spawned an itinerant order of secret celebrants who regard [[Worms]] as semi-gods, and who are sometimes called on to celebrate difficult funerals. \[Use an Encaustum ink with your Journal to make Determinations and record Histories. If the Hours listen, the world changes.]

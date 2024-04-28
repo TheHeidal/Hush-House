@@ -1,0 +1,3 @@
+### Sol Invictis Symbol
+> The eternal symbol of the Unconquered Sun, all the way back to the Shadowless Empire, even through the wild heresies of the Intercalate.
+> Since the Reformation, one quarter is assigned to each of the orthodox Hours - [[the Madrugad|Madrugad]], [[the Watchman|Watchman]], [[the Wolf-Divided|Wolf]], [[the Meniscate|Meniscate]] - and the junction at the wheel's heart to [[the Sun-in-Rags|the Sun in Rags]] or [[the Sun-in-Splendour|Splendour]]. A less orthodox tradition assigns the rim to the enigmatic [[St Januarius]].

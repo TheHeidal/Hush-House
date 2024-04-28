@@ -1,0 +1,2 @@
+> Painted leather, riveted to heavy iron.
+> This is clearly a reproduction or facsimile, perhaps from the mid nineteenth century - but it is heavy and durable. The leather is strongly textured, with small scales arranged in a diamond pattern.

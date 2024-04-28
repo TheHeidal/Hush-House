@@ -1,0 +1,1 @@
+Possible placed a curse on [[Hendrik Dewulf]], or was employed by him as a fortune teller. Unclear!

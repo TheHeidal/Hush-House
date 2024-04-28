@@ -1,0 +1,1 @@
+Miss Naenia is a name of [[the Elegiast]]. She mostly lives inside a painting.

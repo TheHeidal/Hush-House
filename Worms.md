@@ -1,0 +1,1 @@
+Things from [[Nowhere]] that grew in the corpse of the [[the Sun-in-Splendour]] and now want to devour reality. 

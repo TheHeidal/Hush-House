@@ -1,0 +1,1 @@
+> In the forests of the first continent, our ancestors cursed themselves with their own god.

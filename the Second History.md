@@ -1,0 +1,1 @@
+Its ink is [[Porphyrine]].

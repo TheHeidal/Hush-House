@@ -1,0 +1,1 @@
+'By God, Sir, we shall have no Cigars in the Library, and we shall have no House without a Smoking-Room.' Dr [[Ambrose Westcott]] (1734-1797)

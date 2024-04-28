@@ -1,0 +1,1 @@
+[[Ambrose Westcott]] liked to name his hunting trophies after former rivals or adversaries whom (he said) his trophies resembled.

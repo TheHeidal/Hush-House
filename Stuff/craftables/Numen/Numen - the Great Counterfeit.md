@@ -1,0 +1,3 @@
+> [[The Sun-in-Splendour]] and [[the Forge of Days|the Forge of the Days]] could not be joined. But [[Sunset Celia]] and [[the Swan King]] could. This secret is the trick of it. \[Any Librarian can use this to establish a History and complete the game - but [[the Twice-Born]] can win a particular victory.]
+
+The numen of Proxies. Sunset Celia is and is not the Sun-in-Splendour, and the Swan King is and is not the Forge of the Days.

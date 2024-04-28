@@ -1,0 +1,1 @@
+A painter, associated with [[Grail (Principle)|Grail]]

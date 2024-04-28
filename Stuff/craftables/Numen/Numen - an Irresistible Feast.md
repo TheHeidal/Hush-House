@@ -1,0 +1,3 @@
+> It was Hunger that made [[Worms]] of [[Dragons]] - when they consumed the corpses of Hours. Without the savour-secret of [[the Carapace Cross|the Carapace]], their hunger would not have been sufficient. In certain Histories, that savour-secret still has power... *\[Any Librarian can use this to establish a History and complete the game - but [[the Artist]] can use it to win a particular victory.]*
+
+[[Edge]], [[Grail (Principle)|Grail]], [[Nectar]]

@@ -1,0 +1,1 @@
+[[Valentine Dewulf|Valentine]]'s older son, who inherited his madness and was confined until escaing in the 1720's.

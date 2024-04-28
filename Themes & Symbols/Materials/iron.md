@@ -1,0 +1,1 @@
+Associated with [[The Colonel]] in [[On Resonance]]

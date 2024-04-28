@@ -1,0 +1,1 @@
+Husband of [[Eva de Braose]]. Also known as "Gwilym Ddu", suggesting [[Red William]]. I bet somewhere there's a [[White William]]

@@ -1,0 +1,1 @@
+Can be developed into an [[Earthquake Name]] with scholar-level [[Scale]]

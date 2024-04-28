@@ -1,0 +1,1 @@
+The [[the Nuns of St Brandan's|nuns of St Brandan's]] were put on trial and [[St Brandan's Abbey]] stopped accepting nuns.

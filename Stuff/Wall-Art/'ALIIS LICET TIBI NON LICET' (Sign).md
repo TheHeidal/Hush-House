@@ -1,0 +1,3 @@
+To us it is permitted; to you it is not permitted.' The motto of the [[the Suppression Bureau]].
+
+The story goes that [[George Collers|Governor Collers]] used to keep another sign in his office with the motto of [[the Nocturnal Branch]], the Bureau's predecessor: [[RADIX MALORUM LIBERTAS EST]]. If someone complained about Bureau policies, he would point to the sign to remind them that things could be worse. Eventually it was pointed out to him that 'the root of evils is liberty' was an undiplomatic motto to display in a prison, and he grumpily retired the sign.

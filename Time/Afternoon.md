@@ -1,0 +1,1 @@
+The little hour called Nones, when the doors of the Mansus are most tightly closed. For the secular, the hours when we may anticipate tea, or celebrate it.

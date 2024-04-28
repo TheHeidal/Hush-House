@@ -1,0 +1,1 @@
+An emperor of [[Rome]], who imprisoned [[Black Elie]] according to [[Commandments For the Preservation of All That Exists]]

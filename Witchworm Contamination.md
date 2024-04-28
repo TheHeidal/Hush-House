@@ -1,0 +1,3 @@
+> Tiny larvae with half-human faces. Fortunately, they rarely develop into their imago stage; but even as larvae, their whispering can torment senses and distort thoughts. \[These can affect your Shapt and Wist, and spread to nearby objects. You can remove them with a skill that's effective against Infestations, and at least 7 Winter.]
+# Quell Witchworm Contamination
+> The softest penumbra of [[the Madrugad]]'s light - invoked carefully through the White Flower of the Watchman's Tree - drives witchworms to twitching death.

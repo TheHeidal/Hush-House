@@ -1,0 +1,1 @@
+A friend of [[Thirza Blake]], known to have visited her. Possibly her sister? Liked [[Viennes Opera]]

@@ -1,0 +1,2 @@
+> The Concursum waits at the Lantern of the Mansus. It has been called the Chamber of Ways and also the Chamber of Endings. Its intricacies are probably beyond human comprehension, but these formulae are a first approximation.
+> - [[Lantern Lore#Formulae Concursate]]

@@ -1,0 +1,1 @@
+A [[Moth (principle)|Moth]] adept who may have eaten the original copy of [[the Fire-Circle Tantra]]. Fought in [[the Great War]] and recuperated at Hush House in [[the Barber's Tower#Patients' Lounge|the Patients' Lounge of the Motley Tower]].

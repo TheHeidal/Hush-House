@@ -1,0 +1,2 @@
+> Matching eighteenth-century cutlasses. The initials 'SD' are engraved on the blade near the hilt.
+> The hilt is bone; the guard is brass, decorated rather racily with nymphs pursued by satyrs. These were not regulation Royal Navy pattern, and must have been gifts or commissions by Captain [[Sebastian Dewulf]], last of the Dewulf line, who died in action at [[Quiberon Bay]]. 

@@ -1,0 +1,1 @@
+A tree brought to Hush House by [[Earl Brian]]. Has some relation to the [[Watchman's Flowers]]. Blooms red, white, and yellow in succeeding years, presumably relating to [[The Red Flower|the Red Flower]], [[The White Flower|the White Flower]], and [[The Yellow Flower|the Yellow Flower]].

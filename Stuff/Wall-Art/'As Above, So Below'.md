@@ -1,0 +1,2 @@
+> A framed page of illustrated vellum. Up close, the colours dazzle and puzzle.
+> A handwritten slip of paper reads [[Abbess Melancthe|ABBESS MELANCTHE]], 1100? Melancthe's work was sometimes reckoned 'too radiant for the eye'…

@@ -1,0 +1,1 @@
+A fire that started presumably when [[Wickel Inextinguishable]] escaped.

@@ -1,0 +1,1 @@
+A type of [[Lantern]]-creature that hides in [[mirrors (theme)|mirrors]]

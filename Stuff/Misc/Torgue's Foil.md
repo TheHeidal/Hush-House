@@ -1,0 +1,2 @@
+>A pin-sharp length of flexible steel. The blade is inscribed [[TORGUE]].
+> Torgue was one-half of the Edge dyad that [[Natalia Brulleau]] hoped to lure to Hush House - to learn from them or to imprison them?

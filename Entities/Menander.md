@@ -1,0 +1,1 @@
+[[Lt Arthur Thomas Moore (Ret.)]]'s now-dead horse.

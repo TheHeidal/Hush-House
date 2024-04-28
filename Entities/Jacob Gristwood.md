@@ -1,0 +1,1 @@
+Author of [[A Child's Treasury of Golden Afternoons]]

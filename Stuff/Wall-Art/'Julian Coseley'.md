@@ -1,0 +1,3 @@
+> [[Julian Coseley|Julian]] is known to be Winter-long: at a prescribed date, his Hour-patron will ensure him a beautiful ending, but until then, he is even harder than most Long to dispose of finally. That said, he is known to have been defeated by an ascendant Long in the 1920s, and his true current status - a diminished survivor? a determined memory? something else? - is the subject of esoteric debate.]]
+
+> Coseley spent time at Hush House in the seventeenth century, but this painting, though undated, is clearly much more recent. It is also signed by Coseley himself. A gift to an imprisoned admirer?

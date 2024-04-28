@@ -1,0 +1,1 @@
+An Edge-long in a dyad with [[Torgue]]. She created the [[Dearday Lens]] and wrote [[The Ascendant]]

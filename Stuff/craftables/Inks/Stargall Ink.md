@@ -1,0 +1,1 @@
+An ink traditionally (but only rarely) made with [[meteoric iron]]; a minor [[Inks of Power|Ink of Power]].

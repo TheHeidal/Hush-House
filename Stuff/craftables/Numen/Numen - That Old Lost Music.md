@@ -1,0 +1,1 @@
+> In the right Histories, every song ever sung still lingers in wind and echo, untouched by the demands of [[History and Eternity|Eternity]]… \[Any Librarian can use this to establish a History and complete the game - but [[the Symurgist]] and [[the Magnate]] can win a particular victory.]

@@ -1,0 +1,1 @@
+> The Sun's sins and the Sun's scars are our salvation. There are Histories where they will trap us - prevent us rising to Eternity - \[Any Librarian can use this to establish a History and complete the game - but [[the Executioner]] can use it to win a particular victory.]

@@ -1,0 +1,1 @@
+> This rite calls on [[The Twins|The Witch-and-Sister]] to close the gap between what is and what might be. The adept pours, or hurls, an offering into water: preferably, but not essentially, the sea.

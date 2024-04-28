@@ -1,0 +1,1 @@
+> Sight, perception, inspiration, all [[the Glory]]'s gifts.

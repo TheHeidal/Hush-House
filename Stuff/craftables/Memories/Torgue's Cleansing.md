@@ -1,0 +1,1 @@
+> The librarian [[Natalia Brulleau]] learnt this powerful - if unpleasant - technique from the priest and Edge-long, [[Torgue|Reverend Torgue]].

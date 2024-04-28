@@ -1,0 +1,1 @@
+At this time the sisters of the Abbey would raise their voices in praise of [[the Madrugad]], for the office of Aurora.

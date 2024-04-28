@@ -1,0 +1,1 @@
+An Hour that apparently wishes dominion. Likely a Nowhere-Hour.

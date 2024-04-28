@@ -1,0 +1,1 @@
+Back in the Dawn Period, the Sisterhood of the Triple Knot used this in the rites of the Ring-Yew, the Hour which has also been called [[the Malachite]].

@@ -1,0 +1,2 @@
+> [[Valentine Dewulf]]'s magnificent green cockatoo. The painting is signed by Valentine himself.
+> Valentine, who had an interest in the religions of the new world, named his bird for the Mayan god of rain and thunder.

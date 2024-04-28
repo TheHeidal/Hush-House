@@ -1,0 +1,1 @@
+The accomplice to the Ortucchio Incident, who helped the defector establish a [[Skolekosophy]] department with [[Nocturnal Branch]] resources.

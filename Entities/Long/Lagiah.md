@@ -1,0 +1,1 @@
+An aspect or name of [[the Red Grail]]. Was incestuous lovers with [[Antaios]]. She devoured her lovers, and so was probably an [[alukite]].
