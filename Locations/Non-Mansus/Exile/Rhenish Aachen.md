@@ -20,7 +20,7 @@ Free [[Lalla Chaima]]
 # Reconnoitre
 - [[Medical Credentials|Opportunity - Medical Credentials]]
 - [[Profane Weapon]]
-- [[Chapel of St Andrew Stratelates]]
+- [[Colonel Shrine#Chapel of St Andrew Stratelates]]
 - [[Connection - Radicals]]
 - [[A Quiet Warehouse|Opportunity - Quiet Warehouse]]
 - [[Connection - Offical]]
