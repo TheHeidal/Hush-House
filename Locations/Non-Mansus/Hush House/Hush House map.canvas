@@ -1,0 +1,12 @@
+{
+	"nodes":[
+		{"id":"710620fe3b9e3738","x":-456,"y":-648,"width":728,"height":900,"type":"group","label":"Barber's Tower"},
+		{"id":"0d09f82836c735a6","type":"file","file":"Locations/Non-Mansus/Hush House/Rooms/Barber's Tower/Patients' Lounge.md","x":-92,"y":-112,"width":344,"height":172,"color":"1"},
+		{"id":"d9a358053b77158f","type":"file","file":"Infirmary.md","x":-436,"y":60,"width":688,"height":172,"color":"1"},
+		{"id":"519732696628ac66","type":"file","file":"Locations/Non-Mansus/Hush House/Rooms/Barber's Tower/Patients' Lounge.md","x":-436,"y":-112,"width":344,"height":172,"color":"1"},
+		{"id":"91e1378457d73433","type":"file","file":"Locations/Non-Mansus/Hush House/Rooms/Barber's Tower/Patients' Lounge.md","x":-92,"y":-284,"width":344,"height":172,"color":"1"},
+		{"id":"1f9de3cde12834dc","type":"file","file":"Locations/Non-Mansus/Hush House/Rooms/Barber's Tower/Patients' Lounge.md","x":-92,"y":-456,"width":344,"height":172,"color":"1"},
+		{"id":"51c6943220f6ae54","type":"file","file":"Locations/Non-Mansus/Hush House/Rooms/Barber's Tower/Patients' Lounge.md","x":-92,"y":-628,"width":344,"height":172,"color":"1"}
+	],
+	"edges":[]
+}

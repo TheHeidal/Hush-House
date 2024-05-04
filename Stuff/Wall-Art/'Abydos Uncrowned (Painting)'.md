@@ -1,0 +1,1 @@
+Presumably depicts the city of [[Abydos]].

@@ -3,31 +3,31 @@ tags:
   - meta
 ---
 # Way: [[the Wood]]
-- [ ] An Occult Scrap   
+- [x] An Occult Scrap   
 - [ ] A Buzzing in the Brain
 - [ ] Peculiar Rumour
 ## [[The Well]]
-- [ ] A Furtive Truth
-- [ ] An Awareness of Appetite
+- [x] A Furtive Truth
+- [x] An Awareness of Appetite
 - [ ] Vitality
 - [ ] Peculiar Rumour
 ## [[The Temple of the Wheel]]
 - [ ] A Furtive Truth
 - [ ] Subtle Flaw
-- [ ] Trembling Airs
-- [ ] Peculiar Rumour
+- [x] Trembling Airs
+- [x] Peculiar Rumour
 ---
 # Way: [[the White Door]]
-- [ ] Restlessness
+- [x] Restlessness
 - [ ] A Furtive Truth
 - [ ] An Icy Atmosphere
 ## [[The Orchard of Lights]]
-- [ ] Glimmering
-- [ ] A Forgotten Chronicle
+- [x] Glimmering
+- [x] A Forgotten Chronicle
 - [ ] An Intensity of Radiance
-- [ ] Pulsing Airs
+- [x] Pulsing Airs
 ## [[Lodge of the Sage Knight]]
-- [ ] Fascination
+- [x] Fascination
 - [ ] Glimmering
 - [ ] Erudition
 - [ ] A Favour from Authority
@@ -51,10 +51,10 @@ tags:
 # Way: [[The Spider’s Door]]
 - [ ] A Forbidden Epic
 - [ ] An Imperative of Appetite
-- [ ] A Favour From Authority
+- [x] A Favour From Authority
 - [ ] Pounding Airs
 ## [[The Malleary]]
-- [ ] A Blaze of Radiance
+- [x] A Blaze of Radiance
 - [ ] Unresolved Ambiguity
 - [ ] An Incandescence
 - [ ] Iotic Essence
@@ -63,7 +63,7 @@ tags:
 - [ ] Forgotten Chronicle 
 - [ ] A Bitter Atmosphere (W10)
 - [ ] A Blaze of Radiance (L10)
-- [ ] A Howling in the Heart (M10)
+- [x] A Howling in the Heart (M10)
 - [ ] Wrong Door (K10)
 ---
 # Way: [[The Peacock Door|The Peacock’s Door]]

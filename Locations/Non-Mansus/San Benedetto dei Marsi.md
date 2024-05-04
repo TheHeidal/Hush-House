@@ -1,1 +1,1 @@
-A small town on the shore of [[Lake Fucino]]. Home to [[St Agnes of the Serpent]]
+A small town on the shore of [[Lake Fucino]]. Home to St Agnes of the Serpent, a church to the [[the Mother of Ants]].

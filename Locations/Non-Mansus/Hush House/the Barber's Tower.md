@@ -8,12 +8,12 @@ Built in the [[Solar Period]] for [[Natan of Regensburg]] at the order of [[Abbo
 
 ![[Pasted image 20230927173343.png]]
 # Rooms
-## Infirmary
-In the fifteenth century, [[Natan of Regensburg]] came to Brancrug. The brothers of [[St Brandan's Abbey|St Brandans]] granted sanctuary, but they would not permit a Jew - and his family! - to live on abbey grounds. Still they built this tower for him to dwell in and practice his healing arts. It has changed greatly since that time, but a place of healing it remains.
-## Patients' Lounge
-In this room, the accursed of [[the Great War]] gathered to recuperate - those who had suffered something no more horrible, but somewhat more mysterious, than the War's usual wounds to body and spirit - an irruption of [[Worms]], perhaps, or the risks at the military end of [[Suppression Bureau]] activities. Among them were minor luminaries of the invisible world - [[Christopher Illopoly]], [[Mr Zachary Wakefield|Zachary Wakefield]], [[Harvey Hattington]]. But not [[Brian Levinsen]], who had been ninth Librarian, and under whose tenure the Infirmary had flourished. He enlisted; he served for a time as a medical officer on the Western Front; his body was never found.
+![[Infirmary]]
+
+![[Patients' Lounge]]
+
 ## Examination Room
-[[Hendrik Dewulf]] evicted the family of the healer [[Natan of Regensburg|Natan]] from the Barber's Tower - as it was then called. ('I have rooted out the barber's brood,' he is recorded to have gloated.) But his great-great-grandson [[Gideon Dewulf|Gideon]] - 'the Motley Baron', for his brindled hair - restored the Tower and made it a place of healing again. Of course the equipment in this room dates from the current century. But Gideon's other nickname was 'the Cutter'. It was rumoured that he bought corpses for dissection - even that he was a vivisectionist. The latter was probably a slander, but one way or another, scholars have been cutting up corpses in here for a very long time.
+[[Examination Room]]
 ## Illopoly's Nook
 >The door jams half-open, but the room above is a bright oasis after the dreary neglect of the lower tower. The previous occupant has probably left some sort of protections in place. I'll find somebody suitably qualified to deal with them.
 

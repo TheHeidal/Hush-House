@@ -20,7 +20,7 @@ Once there, the dancer dances with [[the Vagabond]].
 ### Moth
 The Dancer sends their wolf-sending to [[Port Noon]]. There it sleeps at the memorial to [[Coelle|Coelle the flower-girl]], and in its sleep [[the Wolf-Divided]] comes to thrill them with its hatred. They surrender their bones. (Moth)
 ### Bones Surrendered (Moth)
-the Sun was divided and the Wolf will not let me forget the salt savour of its bones - not until the Mansus cracks. Now the wolf requires that I carry that savour through the door in the wood.
+> the Sun was divided and the Wolf will not let me forget the salt savour of its bones - not until the Mansus cracks. Now the wolf requires that I carry that savour through the door in the wood.
 # The Last Dance
 ## Heart
 > On the very rare occasions that Mr Agdistis speaks, his voice is very beautiful - a mellow sound like an alto flute. 'You almost have what you need,' he says, 'to pass [[the Kingskin Gate]]. One will come to lend you the key.' He looks you in the eye. 'I beg you not to take her hand, not to look upon her feet, and not to offer her to drink.' He begins, very softly, to weep. 'It will hurt. I love her.'

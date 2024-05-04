@@ -1,6 +1,4 @@
 ---
-tags:
-  - incomplete
 Mystery: Grail
 Mystery_Degree: "6"
 Period: Nocturnal
