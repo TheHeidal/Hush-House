@@ -19,6 +19,6 @@ Contains a hint on how to find [[The Three and the Three (St Chiavi Manuscript)]
 
 # Author's Commentary
 > 'I remember this - '
-> 'I'm surprised that it's found its way here... but that's Hush House, I suppose. May I refresh my memory? I remember that I wrote about the Galmier business - not as cautiously as I might have...'
+> 'I'm surprised that it's found its way here... but that's Hush House, I suppose. May I refresh my memory? I remember that I wrote about the [[Teresa Galmier|Galmier]] business - not as cautiously as I might have...'
 
 > 'That law I will not name aloud - the law of the three - it can be defied. It is rarely wise to attempt that defiance. The penalty of failure is paid by one - but the penalty of success, by many. I would ask you, Librarian, to remember that, when you decide how to address yourself to Eternity. But I already have faith in your judgement. Thank you for the loan of the book.'

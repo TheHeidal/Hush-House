@@ -1,10 +1,7 @@
 ![[Pasted image 20231003001439.png]]
-# Servants' Hall
-> [[Hendrik Dewulf]], 1st Baron Brancrug, was granted Hush House after the dissolution of St Brandan's by 'Old Coppernose', [[Henry VIII|King Henry VIII]]. In an act of unusual generosity for that tight-fisted King, the grant came with the title of Baron, and rights <i>sicut regale</i> - 'like a king', the quasi-independence traditionally accorded to [[Marcher Lords]]. Hendrik was clearly determined to live as befitted his new rank, and he expanded the house accordingly to support sufficient staff.
-# Kitchen
-> "[[Kingsluck pie]]" - a beef pie with pears and cinnamon and secret ingredients - is the traditional dish of the House. It was first cooked, they say, for [[Henry VIII|King Henry]], when in great secrecy on [[St Piran's Day]] he came to Cornwall seeking the 'King's Metal', tin, to 'restore his Alloy'. It probably didn't happen. But the pie did.
-# Pantry
-> This room is close to the roots of the House; and so it had a troubled reputation with the servantry, who late at night might hear the pulse of an unseen drum, the buzzing of flies, voices crying out in tongues unknown... and so the servants would trade favours not to be the one to fetch spices for his Lordship's posset after dark.
+![[Servants' Hall]]
+![[Kitchen]]
+![[Pantry]]
 # Servants' Quarters - South
 > When [[Hendrik Dewulf]] left behind the life of a mercenary, he appointed his quartermaster as head of his new household. This would have drawn little comment, except that his quartermaster was a woman - the soft-spoken, steely-willed [[Ernestine Peterhans]]. For more than five decades, these rooms were her unchallenged domain. Even in her eightieth year, she still walked her rounds every day, and the servants would fall silent at the distant jingle of her keys.
 # Servants' Quarters - North

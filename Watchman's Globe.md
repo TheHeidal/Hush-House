@@ -1,2 +1,2 @@
-> The locations of each of the nine Libraries of the Watchman's Tree are clearly marked.
-> [[Crossrow]] and [[the Haustorium]]; [[the Grove of the Green Immortals]] and [[the Tomb of Lies]]; [[the Yeshiva Tigris]] and [[the Monastery of the Fifth Cup]]; [[the Invisible Serapeum]] and [[the Labyrinth of Lions]]; and [[Hush House|here]].
+> The locations of each of the nine Libraries of [[the Watchman's Tree]] are clearly marked.
+> Crossrow and the Haustorium; the Grove of the Green Immortals and the Tomb of Lies; the Yeshiva Tigris and the Monastery of the Fifth Cup; the Invisible Serapeum and the Labyrinth of Lions; and [[Hush House|here]].

@@ -1,0 +1,6 @@
+{"id":"appointment.enigmatic", "label":"Secretary Enigmatic", "desc":"The Secretary Enigmatic conceals or reveals the Institute's secrets.", "isaspect":true},
+{"id":"appointment.nunciant", "label":"Secretary Nunciant", "desc":"The Secretary Nunciant communicates and negotiates with other organisations.", "isaspect":true},
+{"id":"appointment.persistent", "label":"Secretary Persistent", "desc":"The Secretary Persistent is ultimately responsible for the Institute's continuity.", "isaspect":true},
+{"id":"appointment.salvant", "label":"Secretary Salvant", "desc":"The Secretary Salvant leads the Institute's healing and restoration efforts.", "isaspect":true},
+{"id":"appointment.treasurer", "label":"Treasurer", "desc":"The Treasurer is responsible for the Institute's finances.", "isaspect":true},
+{"id":"appointment.vigilant", "label":"Secretary Vigilant", "desc":"The Secretary Vigilant ensures the Institute's safety.", "isaspect":true},

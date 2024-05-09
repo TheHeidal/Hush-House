@@ -8,6 +8,8 @@ aliases:
 
 > By long tradition, each Baron Brancrug had their image set in a niche in the Grand Ascent. Later,  [[The Curia|the Curia of the Isle]] continued the tradition for their Librarians.
 
+The Grand Ascent, also known as the Winding Stair[^1], is a staircase in [[Hush House]].
+
 ![[Pasted image 20230924161635.png]]
 
 ## Delightful Repose
@@ -15,3 +17,5 @@ aliases:
 > House folklore claims that [[Ambrose Westcott]] suffered his final apoplexy on this sofa, after a particularly hasty trample up and down the stairs to argue with visiting priests.
 
 Contains a bronze [[Bronze Spintra]].
+
+[^1]: [[The Temptations of Architecture]]

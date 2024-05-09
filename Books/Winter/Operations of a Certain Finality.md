@@ -8,7 +8,7 @@ Lesson: "[[Putrefactions and Calcinations]]"
 Memory: "[[Memory - Hindsight]]"
 ---
 # Summary
-> Subtitled 'The Hammer's Sundering'. The work of an anonymous adept who violently despised [[the Invisible Serapeum]], the library of [[the Watchman's Tree]] in [[Alexandria]].
+> Subtitled 'The Hammer's Sundering'. The work of an anonymous adept who violently despised [[the Watchman's Tree]], the library of [[the Watchman's Tree]] in [[Alexandria]].
 # Reading
 > The author outlines the means they had taken to sabotage the place and its collection, which increasingly seem more poetic than effective, to the point where the whole business may in fact be some kind of allegory..
 # Read

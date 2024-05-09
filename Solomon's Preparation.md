@@ -1,0 +1,4 @@
+> Solomon Husher would take this every night without fail before sleep, to close his ears to the sound of the waves. But on the 9th of January 1838, a heavy snow fell on Hush House. When the other residents dug themselves out, Husher was nowhere to be found. He had left a resignation letter, and an undrunk measure of his Preparation.
+
+Consider:
+> The sounds around me remain, but I find that I can attend to each one, diminishing it or returning it as if I were closing a door on a troublesome draught. For no obvious reason, I find myself recalling that the 9th of January is the Agonalia of Janus.

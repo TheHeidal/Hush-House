@@ -7,7 +7,7 @@ tags:
 ---
 > 'Who returned loyalty for loyalty and curse for curse'
 
-Hendrik Dewulf was the first of the Barons Brancrug. He was first a prince, then leader of a company of soldiers that patrolled [[the Bounds]], but was granted [[Brancrug Isle]].
+Hendrik Dewulf was the first of the Barons Brancrug. He was first a prince, then leader of a company of soldiers that patrolled [[the Bounds]], but was granted [[Brancrug Isle]]. He was the father of [[Thomas Dewulf]]
 
 # Soldiering
 In 1527, he participated in a sack of Rome[^1].

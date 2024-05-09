@@ -6,11 +6,11 @@ aliases:
   - Serena Blackwood
   - Dr Serena Blackwood
 ---
-> One-time Librarian of Hush House, one-time Librarian of [[the Invisible Serapeum]] in Alexandria, and currently... what, exactly? Serena is close-mouthed, but I know that she has worked with the [[St Rhonwen Trust]].[^3]
+> One-time Librarian of Hush House, one-time Librarian of [[the Watchman's Tree]] in Alexandria, and currently... what, exactly? Serena is close-mouthed, but I know that she has worked with the [[St Rhonwen Trust]].[^3]
 
 > 'Who departed, but did not forget'[^2]
 
-Tenth [[The Curia#Librarians|Librarian]] of Hush House until she left for [[the Invisible Serapeum]]. Serena is almost certainly using a pseudonym[^1]. She is still occasionally a #visitor 
+Tenth [[The Curia#Librarians|Librarian]] of Hush House until she left for [[the Watchman's Tree]]. Serena is almost certainly using a pseudonym[^1]. She is still occasionally a #visitor 
 
 A niche with a plaque: 
 

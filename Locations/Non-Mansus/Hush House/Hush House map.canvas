@@ -1,12 +1,28 @@
 {
 	"nodes":[
-		{"id":"710620fe3b9e3738","x":-456,"y":-648,"width":728,"height":900,"type":"group","label":"Barber's Tower"},
-		{"id":"0d09f82836c735a6","type":"file","file":"Locations/Non-Mansus/Hush House/Rooms/Barber's Tower/Patients' Lounge.md","x":-92,"y":-112,"width":344,"height":172,"color":"1"},
-		{"id":"d9a358053b77158f","type":"file","file":"Infirmary.md","x":-436,"y":60,"width":688,"height":172,"color":"1"},
-		{"id":"519732696628ac66","type":"file","file":"Locations/Non-Mansus/Hush House/Rooms/Barber's Tower/Patients' Lounge.md","x":-436,"y":-112,"width":344,"height":172,"color":"1"},
-		{"id":"91e1378457d73433","type":"file","file":"Locations/Non-Mansus/Hush House/Rooms/Barber's Tower/Patients' Lounge.md","x":-92,"y":-284,"width":344,"height":172,"color":"1"},
-		{"id":"1f9de3cde12834dc","type":"file","file":"Locations/Non-Mansus/Hush House/Rooms/Barber's Tower/Patients' Lounge.md","x":-92,"y":-456,"width":344,"height":172,"color":"1"},
-		{"id":"51c6943220f6ae54","type":"file","file":"Locations/Non-Mansus/Hush House/Rooms/Barber's Tower/Patients' Lounge.md","x":-92,"y":-628,"width":344,"height":172,"color":"1"}
+		{"id":"af7f2197c1947bdb","x":-112,"y":-948,"width":840,"height":1032,"type":"group","label":"Barber's Tower"},
+		{"id":"813c86529b1e476e","type":"group","x":1487,"y":-629,"width":420,"height":1111,"label":"Watchman's Tower"},
+		{"id":"e94e35670504a08c","type":"group","x":1086,"y":-530,"width":441,"height":813,"label":"Long Tower"},
+		{"id":"49bf5040502d511e","type":"file","file":"Locations/Non-Mansus/Hush House/Rooms/Keeper's Lodge.md","x":2308,"y":263,"width":400,"height":199,"color":"1"},
+		{"id":"3c6fa26ad2ffb274","type":"file","file":"Locations/Non-Mansus/Hush House/Rooms/Exterior/St Brandan’s Cloister.md","x":708,"y":263,"width":800,"height":199,"color":"4"},
+		{"id":"64f42e7b80f8374e","type":"file","file":"Locations/Non-Mansus/Hush House/Rooms/Exterior/Practic Garden.md","x":707,"y":461,"width":800,"height":199,"color":"4"},
+		{"id":"96ba27350afaacd3","type":"file","file":"Locations/Non-Mansus/Hush House/Rooms/Watchman's Tower/First Floor.md","x":1106,"y":63,"width":400,"height":199,"color":"1"},
+		{"id":"07f9ae150ccb505d","type":"file","file":"Locations/Non-Mansus/Hush House/Rooms/Watchman's Tower/Observatory.md","x":1107,"y":-136,"width":400,"height":199,"color":"1"},
+		{"id":"2ccdb79805b9ec43","type":"file","file":"Locations/Non-Mansus/Hush House/Rooms/Barber's Tower/Regensburg Room.md","x":308,"y":-729,"width":400,"height":199,"color":"1"},
+		{"id":"91e1378457d73433","type":"file","file":"Locations/Non-Mansus/Hush House/Rooms/Barber's Tower/Illopoly's Nook.md","x":307,"y":-531,"width":400,"height":199,"color":"1"},
+		{"id":"1f9de3cde12834dc","type":"file","file":"Locations/Non-Mansus/Hush House/Rooms/Barber's Tower/Dispensary.md","x":308,"y":-928,"width":400,"height":199,"color":"1"},
+		{"id":"9c7f124b31215a58","type":"file","file":"Locations/Non-Mansus/Hush House/the Barber's Tower.md","x":-31,"y":-661,"width":279,"height":230},
+		{"id":"3c00d8c5b35351ba","type":"file","file":"Locations/Non-Mansus/Hush House/Rooms/Grand Ascent.md","x":-560,"y":-828,"width":400,"height":400},
+		{"id":"76dd510218063c5a","type":"file","file":"Locations/Non-Mansus/Hush House/Rooms/Watchman's Tower/Gatehouse.md","x":1508,"y":262,"width":400,"height":199,"color":"1"},
+		{"id":"c32604b11345b45f","type":"file","file":"Locations/Non-Mansus/Hush House/Rooms/Watchman's Tower/First Floor.md","x":1507,"y":64,"width":400,"height":199,"color":"1"},
+		{"id":"0930658808ac4f85","type":"file","file":"Locations/Non-Mansus/Hush House/Rooms/Watchman's Tower/Observatory.md","x":1508,"y":-135,"width":400,"height":199,"color":"1"},
+		{"id":"0d09f82836c735a6","type":"file","file":"Locations/Non-Mansus/Hush House/Rooms/Barber's Tower/Patients' Lounge.md","x":307,"y":-332,"width":400,"height":199,"color":"1"},
+		{"id":"d9a358053b77158f","type":"file","file":"Locations/Non-Mansus/Hush House/Rooms/Barber's Tower/Infirmary.md","x":-92,"y":-135,"width":800,"height":199,"color":"1"},
+		{"id":"e7e2bd34e3c13af2","type":"file","file":"Locations/Non-Mansus/Hush House/Rooms/Exterior/Physic Garden.md","x":-92,"y":64,"width":800,"height":199,"color":"4"},
+		{"id":"bd5a76e3e65fe47a","type":"file","file":"Locations/Non-Mansus/Hush House/Rooms/Scent Garden.md","x":-92,"y":461,"width":800,"height":199,"color":"4"},
+		{"id":"519732696628ac66","type":"file","file":"Locations/Non-Mansus/Hush House/Rooms/Barber's Tower/Examination Room.md","x":-92,"y":-332,"width":400,"height":199,"color":"1"},
+		{"id":"15470baadfed4d8d","type":"file","file":"Locations/Non-Mansus/Hush House/Rooms/Long Tower/The Long Tower.md","x":1167,"y":-431,"width":279,"height":230},
+		{"id":"903f2c89b4d0b9ec","type":"file","file":"Locations/Non-Mansus/Hush House/Rooms/Watchman's Tower/the Watchman's Tower.md","x":1569,"y":-462,"width":279,"height":230}
 	],
 	"edges":[]
 }

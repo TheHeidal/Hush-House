@@ -1,1 +1,1 @@
-The protector of [[the Haustorium]].
+The Generous of Hosts is the protector of [[the Watchman's Tree#The Haustorium|the Haustorium]], and likely a Name of [[the Crowned Growth]].

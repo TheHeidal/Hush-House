@@ -1,1 +1,1 @@
-A church of [[St Agnes|Saint Agnes]] in [[San Benedetto dei Marsi]].
+A church of [[the Mother of Ants|St Agnes]] in [[San Benedetto dei Marsi]].

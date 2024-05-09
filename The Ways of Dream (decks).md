@@ -3,19 +3,19 @@ tags:
   - meta
 ---
 # Way: [[the Wood]]
-- [x] An Occult Scrap   
+- [ ] An Occult Scrap   
 - [ ] A Buzzing in the Brain
 - [ ] Peculiar Rumour
 ## [[The Well]]
-- [x] A Furtive Truth
-- [x] An Awareness of Appetite
+- [ ] A Furtive Truth
+- [ ] An Awareness of Appetite
 - [ ] Vitality
 - [ ] Peculiar Rumour
 ## [[The Temple of the Wheel]]
 - [ ] A Furtive Truth
 - [ ] Subtle Flaw
-- [x] Trembling Airs
-- [x] Peculiar Rumour
+- [ ] Trembling Airs
+- [ ] Peculiar Rumour
 ---
 # Way: [[the White Door]]
 - [x] Restlessness
@@ -23,38 +23,38 @@ tags:
 - [ ] An Icy Atmosphere
 ## [[The Orchard of Lights]]
 - [x] Glimmering
-- [x] A Forgotten Chronicle
-- [ ] An Intensity of Radiance
-- [x] Pulsing Airs
+- [ ] A Forgotten Chronicle
+- [x] An Intensity of Radiance
+- [ ] Pulsing Airs
 ## [[Lodge of the Sage Knight]]
-- [x] Fascination
+- [ ] Fascination
 - [ ] Glimmering
 - [ ] Erudition
-- [ ] A Favour from Authority
-- [ ] A Forgotten Chronicle (SH 6)
+- [x] A Favour from Authority
+- [x] A Forgotten Chronicle (SH 6)
 - [ ] Subtle Fracture (Knock 6)
 - [ ] ???
 ---
 # Way: [[The Stag Door]]
 - [ ] A Forgotten Chronicle
-- [ ] A Trembling Heat
-- [ ] Subtle Rapture
+- [x] A Trembling Heat
+- [ ] Subtle Rupture
 ## [[The Ascent of Knives]]
 - [ ] An Urgency of Appetite
-- [ ] A Furious Air
+- [x] A Furious Air
 - [ ] A Bitter Atmosphere
 ## [[The Painted River]]
 - [ ] Fascination
 - [ ] Erudition: Lesson Learnt
-- [ ] A Forbidden Epic
+- [x] A Forbidden Epic
 ---
 # Way: [[The Spider’s Door]]
 - [ ] A Forbidden Epic
 - [ ] An Imperative of Appetite
-- [x] A Favour From Authority
+- [ ] A Favour From Authority
 - [ ] Pounding Airs
 ## [[The Malleary]]
-- [x] A Blaze of Radiance
+- [ ] A Blaze of Radiance
 - [ ] Unresolved Ambiguity
 - [ ] An Incandescence
 - [ ] Iotic Essence
@@ -63,7 +63,7 @@ tags:
 - [ ] Forgotten Chronicle 
 - [ ] A Bitter Atmosphere (W10)
 - [ ] A Blaze of Radiance (L10)
-- [x] A Howling in the Heart (M10)
+- [ ] A Howling in the Heart (M10)
 - [ ] Wrong Door (K10)
 ---
 # Way: [[The Peacock Door|The Peacock’s Door]]

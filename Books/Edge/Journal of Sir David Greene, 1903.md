@@ -18,5 +18,3 @@ Memory: "[[Memory - Fear]]"
 > The last entries alternate between calculations (tides, dates, financial calculations) and expressions of fevered longing for '[[A.F.|A.F]]'. It seems that Greene intends to run away with A.F., and some of the calculations imply that he has been embezzling funds to that end, under cover of the chaos caused by the Ortucchio Incident and the subsequent reorganisation of Nocturnal Branch into the Suppression Bureau... 
 > 
 > The entries, however, stop abruptly before the year's end. It's not clear whether Greene did in fact abscond with funds and fond friend, or whether he abandoned this journal for other reasons.
-# Notes
-Greene does not trust [[the Chandler]].

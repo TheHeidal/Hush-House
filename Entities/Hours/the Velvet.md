@@ -4,6 +4,7 @@ aliases:
   - the Black-Flax
 ---
 
+<aside><img src=https://uadaf.theevilroot.xyz/frangiclave/static/images/endings/velvet.png></aside>
 
 An Hour of [[The Wood]].
 Associated with the principle of [[Moth (principle)|Moth]] and [[Nectar]], and with secrets. The [[the Black Flower]] of [[Calyptra]].
@@ -16,7 +17,7 @@ The long who ascend under her are Moth-long or Nectar-long[^1].
 - [[Kitling Ripe]]
 - [[the Nameless Name]][^2]
 
-![[TheVelvet.webp]]
+
 
 [^1]: [[Kitling Ripe's Tasty Treats]]
 [^2]: [[Amsterdam]]

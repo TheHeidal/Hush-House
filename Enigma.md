@@ -16,7 +16,7 @@
 ## HE
 ### Library - Crossrow
 `crossrow`
-> [[Crossrow]]
+> [[the Watchman's Tree#Crossrow|Crossrow]]
 > 
 > In a garden city of the far West, in an establishment of uncertain age, in a gloriously decaying garden-mansion, you can find perhaps the only library in the world where silence is discouraged. The Watchman and the Vagabond are venerated there, and Sunset Celia's shrine is aligned each day so the dawn may be greeted with music. It claims to be the site of the first Roost, though it's by no means the only place to make that claim. The lights of the house are never extinguished, and its hospitalities, if you can find the place at all, are generally both warm and bright. Perhaps we'll see you there.
 > 
@@ -40,7 +40,7 @@
 ## RO
 ### Library - the Invisible Serapeum
 `invisible-serapeum`
->[[the Invisible Serapeum|Invisible Serapeum]]
+>[[the Watchman's Tree|Invisible Serapeum]]
 >“The first and irreparable disaster was the fall of the Lantern.” Perhaps thanks to the protection of [[the Forge of Days]], the Serapeum has survived the long decline of its parent library. Or perhaps it's just that the Serapeum is invisible to the dull-sighted even once they're inside it. The Forge does not usually favour libraries, but the Serapeum specialises in Forge lore and horomachistry, and favours non-combustible media.
 >[After this place, a suitable wisdom.]
 ### Wisdom - Horomachistry
@@ -59,7 +59,7 @@
 ## MO
 ### Library - the Haustorium
 `haustorium`
-> [[the Haustorium|Haustorium]]
+> [[the Watchman's Tree#The Haustorium|Haustorium]]
 > 
 > An enclave beyond the Evening Isles (and in the Bounds) established by an alliance of Catholic friars with Incan magicians. It preserves those things that are elsewhere considered unwise to preserve. The Haustorium lies beneath the hand of the Crowned Growth. It is in no way a safe place to visit, nor even really to communicate with. It's probably not even a good idea to dream about it.
 > [After this place, a suitable wisdom.]

@@ -3,7 +3,7 @@ aliases:
   - the Abbey of the White Crow
   - the Abbey of the Black Dove
 ---
-Brancrug Isle served as the site of an abbey from the third of fifth century, depending on if you count [[the Sisterhood of the Knot]]. [[Rowena]] established an abbey on [[Brancrug Isle]] with a double foundation of monks and nuns[^4].
+Brancrug Isle served as the site of an abbey from the third or fifth century, depending on if you count [[the Sisterhood of the Knot]]. [[Rowena]] established an abbey on [[Brancrug Isle]] with a double foundation of monks and nuns[^4].
 
 The Abbey was eventually dissolved by [[Henry VIII]] and the Isle was granted to [[Dewulfs|the Dewulfs]]
 # Known Abbots:
@@ -18,8 +18,9 @@ The Abbey was eventually dissolved by [[Henry VIII]] and the Isle was granted to
 
 | Time                 | Event                                                                                                                                                                                                             |
 | -------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 200's                | The Church of Our Lady Beneath is established.[^3]                                                                                                                                                                |
 | 597                  | [[St Columba]] dies[^6] and [[Rowena]] brings his bones to Brancrug Isle[^4].                                                                                                                                     |
-| 599                  | The Abbey is officially founded[^3].                                                                                                                                                                              |
+| 599                  | The traditional founding date of the Abbey[^3].                                                                                                                                                                   |
 | 800's                | [[Abbot Thomas]], a viking raider formerly known as Toke[^15], is Abbot[^3].                                                                                                                                      |
 | 1000's               | St Brandan's church is constructed.[^10]                                                                                                                                                                          |
 | 1068                 | Earl Brian funds construction of [[the Watchman's Tower]] to protect against raids from the deposed sons of [[King Harold]][^16]                                                                                  |

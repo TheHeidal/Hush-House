@@ -9,7 +9,7 @@ Lesson: "[[Snow Stories]]"
 Memory: "[[Memory - Salt]]"
 ---
 # Summary
-> A [[the Haustorium|Haustorial]] tract on various forms of survival after death.
+> A [[the Watchman's Tree#The Haustorium|Haustorial]] tract on various forms of survival after death.
 # Reading
 > When the heart no longer beats, the Grail may keep the spirit in the body, and an appetite is indicated to sustain. ([[Alukites]] are the best-known, but not the only, of this nature). This is the waning-moon mode…
 # Read

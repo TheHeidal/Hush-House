@@ -6,7 +6,7 @@
 # Destination
 > 
 # Vault
-[[the Invisible Serapeum]]
+[[The Invisible Serapeum (Vault)]]
 
 | the Invisible Serapeum |
 | ---------------------- |

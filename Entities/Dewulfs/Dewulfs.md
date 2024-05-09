@@ -2,11 +2,15 @@
 aliases:
   - the Dewulfs
 ---
+> In the 16th Century, the Dewulf family became the Barons Brancrug, governing the Isle as their personal estate - until 1759, when their line ended in madness and death.
+
 The Dewulfs were a family of adepts who controlled [[Brancrug Isle]] during the [[Baronial Period]]. [[Hendrik Dewulf]] was granted the barony of [[Brancrug Isle]] by [[Henry VIII|King Henry VIII]] after the dissolution of [[the Abbey]], and [[Hush House]] was held by 7 generations of his family until the death of [[Eva Dewulf]].
 
 After the death of Eva Dewulf, Brancrug Isle eventually fell under the control of [[The Curia|the Curia of the Isle]].
+
+![[Dewulfs.canvas|Dewulfs]]
 # Members
-![[Pasted image 20240327010932.png|right|225]]
+%% ![[Pasted image 20240327010932.png|right|225]] %%
 - [[Hendrik Dewulf]], 1st Baron Brancrug
 - [[Thomas Dewulf]], 2nd Baron Brancrug
 	- [[Giles Dewulf]] (son of Thomas)
@@ -39,7 +43,7 @@ After the death of Eva Dewulf, Brancrug Isle eventually fell under the control o
 | 1651                | [[Musgrave Dewulf]] endows the atrium with a shrine to St. Januarius of the Gate[^1].                              |
 | 1652                | Musgrave Dewulf pressgangs [[Ricardo Milagro]] as a gardener[^9].                                                  |
 | ~1702               | [[Eva Dewulf]] is born                                                                                             |
-| 1721                | [[Valentine Dewulf]] dies falling from [[the Gullscry tower]][^10] and [[Eva Dewulf]] (19) inherits Brancrug[^12]. |
+| 1721                | [[Valentine Dewulf]] dies falling from [[the Gullscry Tower]][^10] and [[Eva Dewulf]] (19) inherits Brancrug[^12]. |
 | 1725                | [[Eva Dewulf]] is abandoned at the altar by [[Abraham Wheelock]][^5].                                              |
 | late 1720's         | [[Eales Dewulf]] escapes from the [[the Gullscry Tower]] and is never seen again[^11].                             |
 | 1751                | Eva Dewulf begins a relationship with [[Franklin Bancroft]][^15]                                                   |

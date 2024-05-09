@@ -1,0 +1,35 @@
+{
+	"nodes":[
+		{"id":"e7c30899e1160597","type":"file","file":"Entities/Dewulfs/Hendrik Dewulf.md","x":-160,"y":-340,"width":400,"height":206,"color":"#d43535"},
+		{"id":"78efa8e7c86f5726","type":"file","file":"Entities/Dewulfs/Thomas Dewulf.md","x":-160,"y":-62,"width":400,"height":206,"color":"#d43535"},
+		{"id":"d3ca7187048eca2e","type":"file","file":"Entities/Dewulfs/Giles Dewulf.md","x":-160,"y":216,"width":400,"height":206},
+		{"id":"3c7662ef99de5458","type":"file","file":"Entities/Dewulfs/Walter Dewulf.md","x":-440,"y":565,"width":400,"height":206,"color":"#d43535"},
+		{"id":"19d5bb71c0f143d8","type":"file","file":"Entities/Dewulfs/Hafren Waters.md","x":-760,"y":216,"width":400,"height":206},
+		{"id":"099cb41ebd8a8225","type":"file","file":"Entities/Dewulfs/Musgrave Dewulf.md","x":-440,"y":925,"width":400,"height":206,"color":"#d43535"},
+		{"id":"ae2cf5bee59d6004","type":"file","file":"Entities/Dewulfs/Gideon Dewulf.md","x":-440,"y":1203,"width":400,"height":206,"color":"#d43535"},
+		{"id":"85e14d217e084378","type":"file","file":"Entities/Dewulfs/Valentine Dewulf.md","x":-440,"y":1481,"width":400,"height":206,"color":"#d43535"},
+		{"id":"7b786114c5f7df42","type":"file","file":"Entities/Dewulfs/Eva Dewulf.md","x":-440,"y":1759,"width":400,"height":206,"color":"#d43535"},
+		{"id":"c74849fd0fd843f3","type":"file","file":"Entities/Long/Franklin Bancroft.md","x":160,"y":1759,"width":400,"height":206},
+		{"id":"4b51983b10720426","type":"file","file":"Entities/Dewulfs/Sebastian Dewulf.md","x":-720,"y":2108,"width":400,"height":206},
+		{"id":"1892c31e0f270f85","type":"file","file":"Entities/Dewulfs/Bryan Dewulf.md","x":-960,"y":925,"width":400,"height":206},
+		{"id":"7626cfc3a27e1b61","type":"file","file":"Entities/Abra Southey.md","x":-140,"y":2108,"width":400,"height":206},
+		{"id":"180c80535240f3ee","type":"file","file":"Entities/Dewulfs/Eva Dewulf's Grand-twins.md","x":-720,"y":2440,"width":400,"height":206},
+		{"id":"28a2d7b0a449db7c","type":"file","file":"Dr Yvette Southey.md","x":-140,"y":2546,"width":400,"height":200}
+	],
+	"edges":[
+		{"id":"0b0b87235aeffe47","fromNode":"e7c30899e1160597","fromSide":"bottom","toNode":"78efa8e7c86f5726","toSide":"top"},
+		{"id":"1c681f600a660dc9","fromNode":"78efa8e7c86f5726","fromSide":"bottom","toNode":"d3ca7187048eca2e","toSide":"top"},
+		{"id":"870425b4c63791ce","fromNode":"3c7662ef99de5458","fromSide":"bottom","toNode":"099cb41ebd8a8225","toSide":"top"},
+		{"id":"9001a1139e9ed020","fromNode":"099cb41ebd8a8225","fromSide":"bottom","toNode":"ae2cf5bee59d6004","toSide":"top"},
+		{"id":"32ebbb913185a33b","fromNode":"d3ca7187048eca2e","fromSide":"bottom","toNode":"3c7662ef99de5458","toSide":"top"},
+		{"id":"a7934da5d262f028","fromNode":"3c7662ef99de5458","fromSide":"bottom","toNode":"1892c31e0f270f85","toSide":"top"},
+		{"id":"468f6d04e5d24fcf","fromNode":"ae2cf5bee59d6004","fromSide":"bottom","toNode":"85e14d217e084378","toSide":"top"},
+		{"id":"96991da8d2b4556d","fromNode":"19d5bb71c0f143d8","fromSide":"bottom","toNode":"3c7662ef99de5458","toSide":"top"},
+		{"id":"5974e34a00f6463e","fromNode":"85e14d217e084378","fromSide":"bottom","toNode":"7b786114c5f7df42","toSide":"top"},
+		{"id":"19d61e2b4dd89184","fromNode":"7b786114c5f7df42","fromSide":"bottom","toNode":"4b51983b10720426","toSide":"top"},
+		{"id":"ab557815d416be96","fromNode":"7b786114c5f7df42","fromSide":"bottom","toNode":"7626cfc3a27e1b61","toSide":"top"},
+		{"id":"ac9fa1b1be7fe94b","fromNode":"c74849fd0fd843f3","fromSide":"bottom","toNode":"7626cfc3a27e1b61","toSide":"top"},
+		{"id":"a428c9c941d7cda0","fromNode":"4b51983b10720426","fromSide":"bottom","toNode":"180c80535240f3ee","toSide":"top"},
+		{"id":"974a173ae49f6e90","fromNode":"7626cfc3a27e1b61","fromSide":"bottom","toNode":"28a2d7b0a449db7c","toSide":"top","label":"Unknown Generations of Southeys"}
+	]
+}

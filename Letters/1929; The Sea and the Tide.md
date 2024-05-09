@@ -18,8 +18,7 @@ But more importantly, the encaustum is not what you have come to believe. Yes, i
 
 There are many Histories, as you yourself have written. The [[Hours]] of [[the Mansus]] determine what events are considered a History, and which Histories are braided into the future - the future in which you will read (and burn!) this letter.
 
-But the Hours are not all-knowing, nor infallible. I do not think it is even accurate to call them gods, although we so often revert to that convention. (I do not believe - and for this I am grateful - that there are such things as gods.) They do not take direction, but they have been known to
-take advice.
+But the Hours are not all-knowing, nor infallible. I do not think it is even accurate to call them gods, although we so often revert to that convention. (I do not believe - and for this I am grateful - that there are such things as gods.) They do not take direction, but they have been known to take advice.
 
 You may know that [[Hush House]] lies under the hand of certain Hours. I have no wish to draw their attention, so I will not name them, but they are most of them those who seek to preserve the world as it is. In our smaller way, that is also the goal of our [[The Curia|Curia]]. The Librarian of the House is provided with texts that qualify as Material, the unintersticed elements of proto-History, and they make their curations and determinations upon it. When they make those curations and determinations in the encaustum terminale, the Hours take note, and they value the Librarian's opinion… if the Librarian is of sufficient significance.
 

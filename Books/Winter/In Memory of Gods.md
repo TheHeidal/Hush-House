@@ -1,9 +1,7 @@
 ---
 Mystery: Winter
 Mystery_Degree: "10"
-Language: Fucine
-tags:
-  - incomplete
+Language: "[[Fucine]]"
 Period: Dawn
 Lesson: "[[Ragged Crossroads]]"
 Memory: "[[Memory - Hindsight]]"

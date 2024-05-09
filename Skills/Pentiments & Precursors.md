@@ -10,7 +10,7 @@ Feats and feits of forgotten things: [[the Carapace Cross]], the line of [[Antai
 > Of the Ligeian [[Medusa]], it has been said: 'She might be the oldest of her kind still living; and she is dead.' Skolekosophists might interpret this thus: she is the oldest of [[the Seglaz-kind]], which is to say of a [[the Carapace Cross|Carapace-lineage]] famed for the breadth of their wisdom and the complexity of their teeth.
 # Birdsong
 > [!Birdsong] [[Coral]]
->Of the [[the Ligeian Club|Ligeian]] [[Medusa]], it has been said: 'She might be the oldest of her kind still living; and she is dead.' [[Symurgists]] say she is the oldest of the shared Names of [[the Twins]] - the Hours we call Sister-and-Witch, Witch-and-Sister.
+>Of the [[the Ligeian Club|Ligeian]] [[Medusa]], it has been said: 'She might be the oldest of her kind still living; and she is dead.' [[Birdsong|Symurgists]] say she is the oldest of the shared Names of [[the Twins]] - the Hours we call Sister-and-Witch, Witch-and-Sister.
 
 # Speculation
 A low red sun refers to [[the Egg Unhatching]], probably.
